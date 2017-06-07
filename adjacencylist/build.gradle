@@ -1,0 +1,8 @@
+version "0.1"
+group "adjancecylist"
+
+grails {
+    plugins {
+        compile project(':common')
+    }
+}

@@ -1,0 +1,10 @@
+/.gradle
+/.idea
+classes
+*.iml
+/adjacencylist/.DS_Store
+/adjacencylist/.gradle
+/adjacencylist/.idea
+/adjacencylist/build
+.DS_Store
+build
